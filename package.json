@@ -1,0 +1,27 @@
+{
+  "name": "webrtc-conference",
+  "version": "1.0.0",
+  "description": "Group Video Call Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talam1992/WebRTC-Conference.git"
+  },
+  "author": "Timothy Lam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talam1992/WebRTC-Conference/issues"
+  },
+  "homepage": "https://github.com/talam1992/WebRTC-Conference#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
