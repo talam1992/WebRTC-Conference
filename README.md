@@ -1,6 +1,9 @@
-# WebRTC-Conference
- Group Video Call Application
+# WebRTC-Conference - Group Video Call Application
 
+## @Author: Timothy Lam
+
+Installation
+============================================================
  ```
  npm init
  ```
@@ -13,8 +16,11 @@
 npm install --save-dev nodemon
 ```
 
+Running WebRTC-Conference
+============================================================
+
 ```
 npm run dev
 ```
 
-http://localhost:3000/log.html
+http://localhost:5000/log.html
