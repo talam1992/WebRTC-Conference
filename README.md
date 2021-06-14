@@ -24,3 +24,5 @@ npm run dev
 ```
 
 http://localhost:5000/log.html
+
+https://webrtcconference.herokuapp.com/log.html 
